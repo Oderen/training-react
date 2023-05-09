@@ -1,0 +1,21 @@
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.button {
+  display: block;
+
+  width: 100px;
+  height: 50px;
+
+  margin-right: 10px;
+}
+
+.span {
+  margin-right: 10px;
+}
