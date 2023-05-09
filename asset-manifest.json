@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/Oderen/Training/static/css/main.7a2a0fae.css",
+    "main.js": "//github.com/Oderen/Training/static/js/main.24196872.js",
+    "index.html": "//github.com/Oderen/Training/index.html",
+    "main.7a2a0fae.css.map": "//github.com/Oderen/Training/static/css/main.7a2a0fae.css.map",
+    "main.24196872.js.map": "//github.com/Oderen/Training/static/js/main.24196872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2a0fae.css",
+    "static/js/main.24196872.js"
+  ]
+}
